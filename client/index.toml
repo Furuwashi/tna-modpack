@@ -417,13 +417,13 @@ hash = "19d40889988c81797b7307934feec03d24f4fb68a108f8a1caa304e14318eb75"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "51913b8b1d6f9fa4812a1ce24b1a924d536df9817d2af4d9be4a593dcddb2061"
+file = "mods/konkrete.pw.toml"
+hash = "aebe7d9bce331d857dde6847cd60cbc821486054d3d55b382058e0a573ed4f22"
 metafile = true
 
 [[files]]
-file = "mods/konkrete.pw.toml"
-hash = "aebe7d9bce331d857dde6847cd60cbc821486054d3d55b382058e0a573ed4f22"
+file = "mods/lambdynamiclights.pw.toml"
+hash = "3d3ed33673e54ea000116c1309de659503e05457104e9a68a236bab475341f3a"
 metafile = true
 
 [[files]]
@@ -469,6 +469,11 @@ metafile = true
 [[files]]
 file = "mods/northstar-redux.pw.toml"
 hash = "bf6fddaaf67b2d4ab6261ef8c78f31aeac6fb4b152306eb4a31139801eb0726f"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "b68a0b80d7dd64e2c5ac489aa67cf3c343630c9e2deec5d09522d6f7363b2b35"
 metafile = true
 
 [[files]]
@@ -567,6 +572,16 @@ hash = "c127fa30cbbb12a4d36269080ced5afc621f03ac605fa019023ff901657515ef"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "d609fad21021c5578750019bbe247515af55b0d1284ef838e42ef4ad0d5fbff4"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "ac287f392613eddfa285620dcecb3fea25ee6232a201009cde5c5511b6a39fb9"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "fd8994221802e444c1b1b2da9d3d816a040860d875c56ce15be401b865e2eae5"
 metafile = true
@@ -628,4 +643,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/tutoriel_guide.zip"
-hash = "6930a62553daca28cd43f53322322435b2645068f1a73ca0debcdd5ab63afc76"
+hash = "806a97920446d8932908e2d404b8eab310491d13e558913003b2e98a6ef58e55"

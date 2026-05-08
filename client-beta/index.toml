@@ -62,6 +62,11 @@ hash = "1c63fceb43ce3542ee9c40c0112ce20eeb9c0ccb9d36b16a6e5f84b4df595d48"
 metafile = true
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs(1.21.1).pw.toml"
 hash = "365451dbbb23e41ef6e0846eba1725e1e121602a862eb826b9d4fdd59cbeb95f"
 metafile = true
@@ -477,6 +482,11 @@ hash = "b68a0b80d7dd64e2c5ac489aa67cf3c343630c9e2deec5d09522d6f7363b2b35"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "5cd30923f8e867bc3a93b84d2c5853c9b6247d8287d276b993ad56629ebb07e1"
 metafile = true
@@ -640,6 +650,10 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "bc0438a2fcfe47a3ab855c8f28fe7775c6ea274ef8a168093496bd6653d11e32"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Guide tutoriel.zip"
+hash = "8f3c1b823f20d950b0838aac6040619accc7cfe43ac1d8ad3a4712ff0ba2dce1"
 
 [[files]]
 file = "resourcepacks/tutoriel_guide.zip"

@@ -467,6 +467,11 @@ hash = "aebe7d9bce331d857dde6847cd60cbc821486054d3d55b382058e0a573ed4f22"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "3d3ed33673e54ea000116c1309de659503e05457104e9a68a236bab475341f3a"
 metafile = true

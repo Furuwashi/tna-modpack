@@ -117,6 +117,11 @@ hash = "f93cbbd6f68d287e865eece288e9d845ebf608b01d21eedd3f4285231282d6fa"
 metafile = true
 
 [[files]]
+file = "mods/blocks-bogies.pw.toml"
+hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
+metafile = true
+
+[[files]]
 file = "mods/brandons-core.pw.toml"
 hash = "c6286928c5cc7995c3bd2e4ac3153fdbfed684f4de3bead64e293cb852532d65"
 metafile = true
@@ -169,6 +174,11 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "47a456dc38c5bfa9604ad2ecb0627cf5271132a022fc0867b6059f92e841203d"
+metafile = true
+
+[[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
 metafile = true
 
 [[files]]
@@ -282,6 +292,11 @@ hash = "e66c8649557c5df5d660e64b635576f8aa836c05b14e915b8f4ae119c704d7bf"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "b5bbbdef134fb735d4a741ccb85b46c6b1707e8e974a09bdcc1dcd785c0f172e"
+metafile = true
+
+[[files]]
 file = "mods/createnuclear.pw.toml"
 hash = "b0d7141c5989f89845d00abed4cb5b94887be4fe92a934a92913922c4e321f7f"
 metafile = true
@@ -304,6 +319,16 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "42b02c8b9802d2733bb11911130803a66e3e74d9dede5fd5654b1f61e7ced3de"
+metafile = true
+
+[[files]]
+file = "mods/delightful-creators.pw.toml"
+hash = "3b26aa1f81c86ead9da08dcf8d2af6d5ad5ce00211a1d7a1773b9f5a9dcc68a6"
+metafile = true
+
+[[files]]
+file = "mods/display-delight.pw.toml"
+hash = "18219006cd971209a7630c5704c2ca92d5631f3d6ee6cb1c43975656c249ba0f"
 metafile = true
 
 [[files]]
@@ -344,6 +369,11 @@ metafile = true
 [[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "f61b542fc05e575f6fa973f447257593cb8a2e08bc032b3c22c036e170886b00"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "74a9c6f2f890649eb693c9f48c3d99148b5526e23371cf1a9a6276bd3b21b214"
 metafile = true
 
 [[files]]
@@ -529,6 +559,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "82e2c1ac8875303b3dfc70ce7cfe8ca08ca1c1629c34f986441ea203f5fb645c"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "18ca1d438084a8578f4b75f12233db58ca1deec55f117fb875afa21f2c021559"
 metafile = true
 
 [[files]]

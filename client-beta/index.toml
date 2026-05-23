@@ -242,6 +242,11 @@ hash = "9659152903c07ccc018e00e09ffe021d78da8be78a83a19ffe269c251e0cd191"
 metafile = true
 
 [[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "4c0763d5351f0264d1d60c6fee012663f4855a9def0c31c309560779782945d1"
+metafile = true
+
+[[files]]
 file = "mods/create-molten-vents.pw.toml"
 hash = "b6f1451235d7ff58eb5cb2ab3bac92ab46aca6971c0cf7937175985d7db6c95f"
 metafile = true

@@ -107,6 +107,11 @@ hash = "b4251fa92525dc34419748c52b2d5d8a7373bc82ad7b468825c45cbefd1d2578"
 metafile = true
 
 [[files]]
+file = "mods/betterdays.pw.toml"
+hash = "f567df6f58cbb28cd6e28dfa72dde29ed8c787afc6e4694c797b0896fa07c8f6"
+metafile = true
+
+[[files]]
 file = "mods/betterend-neoforge.pw.toml"
 hash = "ddf910398244166cf32fad2c74214583d0b65d561e2176172d381258a38becf4"
 metafile = true

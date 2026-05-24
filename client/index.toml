@@ -197,6 +197,11 @@ hash = "681bc58cb8782800ad2dc5d21199e35b5048ed2b1b32c9e06579e41ee3c199a3"
 metafile = true
 
 [[files]]
+file = "mods/create-curios-jetpack.pw.toml"
+hash = "b8e662516d509fc3fcc6036955373de4760e3c43093f31117cef927fb7e4e619"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "619728b54bf49fb690b8f808651f9e0573500d76601c00101751d57dd25207a4"
 metafile = true
@@ -234,6 +239,11 @@ metafile = true
 [[files]]
 file = "mods/create-food.pw.toml"
 hash = "9659152903c07ccc018e00e09ffe021d78da8be78a83a19ffe269c251e0cd191"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "4c0763d5351f0264d1d60c6fee012663f4855a9def0c31c309560779782945d1"
 metafile = true
 
 [[files]]
